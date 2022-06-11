@@ -32,7 +32,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Zenii Gatsby`,
-        short_name: `zenii`,
+        short_name: `OnTheGo`,
         start_url: `/`,
         background_color: `#6C63FF`,
         theme_color: `#6C63FF`,
