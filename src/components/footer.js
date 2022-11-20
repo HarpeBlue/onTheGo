@@ -71,7 +71,7 @@ const Footer = ({ menus }) => {
         </div>
         {footerMenu !== null && footerMenu !== undefined && (
           <div className="footer__content">
-            <h3 className="text-lg font-bold mb-4">Menu Links</h3>
+            <h3 className="text-lg font-bold mb-4">Menu</h3>
             <ul className="text-sm">
               {footerMenu.menuItems.map(menu => (
                 <li className="mb-2" key={menu.id}>

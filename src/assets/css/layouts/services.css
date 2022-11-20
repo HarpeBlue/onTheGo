@@ -1,3 +1,11 @@
+/* .services__container {
+    background-image: url('https://i.imgur.com/5XGYBYZ.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    backface-visibility: 0.5;
+} */
+
 .services__items {
     @apply grid row-gap-16 grid-cols-1;
 }
