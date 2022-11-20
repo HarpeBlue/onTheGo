@@ -41,7 +41,8 @@ const Hero = ({ contentModuleId }) => {
                 </div>
             </div>
             <div className="hero__image">
-                <img src={ content.node.image.fluid.src }  className="mx-auto" alt="Hero" data-sal="slide-right" data-sal-delay="400" data-sal-duration="500" />
+                {/* <img src={ content.node.image.fluid.src }  className="mx-auto" alt="Hero" data-sal="slide-right" data-sal-delay="400" data-sal-duration="500" /> */}
+                <iframe src="https://drive.google.com/file/d/188tVxYiYdesm4PqSjQM-XGq7mObS6PLv/preview" width="640" height="480" allow="autoplay"></iframe>
             </div>
         </section>
     );

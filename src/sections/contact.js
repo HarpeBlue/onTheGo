@@ -89,6 +89,7 @@ const Contact = ({ contentModuleId }) => {
         >
           <div className="contact__image-wrap">
             <Img fluid={content.node.image.fluid} alt="Contact" />
+            <p className="contact__image-text">Reclama tu kit de bienvenida!!!</p>
           </div>
         </div>
       </div>
