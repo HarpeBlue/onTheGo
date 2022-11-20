@@ -105,7 +105,7 @@ const Footer = ({ menus }) => {
               </a>
             </li>
             <li className="mb-2 mr-4">
-              <a href={data.contentfulContactDetails.instagramUrl}>
+              <a href={data.contentfulContactDetails.instagramUrl} target="_blank" >
                 <img
                   className="w-6 h-6"
                   src={require("assets/images/instagram.svg")}
