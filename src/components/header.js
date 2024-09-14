@@ -52,7 +52,7 @@ const Header = ({ menus }) => {
     <header className="header container">
       <Link to="/">
         <img
-          src={require("assets/images/logo.png")}
+          src={require("assets/images/logo-web-transparent.png")}
           alt="site logo"
           width="200"
           height="100"
