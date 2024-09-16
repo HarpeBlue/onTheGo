@@ -36,7 +36,7 @@ const Services = ({ contentModuleId }) => {
 
     const content = data.allContentfulLayoutServices.edges.find(edge => edge.node.id === contentModuleId);
     return (
-        <section id="services" className="services container section mx-auto">
+        <section id="services" className="services container section mx-auto services__container"  bgcolor="aqua">
             <div>
                 <h2 className="section__title text-center mb-16" data-sal="fade" data-sal-easing="ease-in-cubic">{ content.node.heading }</h2>
                 {
