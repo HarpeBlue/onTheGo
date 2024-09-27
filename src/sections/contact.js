@@ -74,7 +74,7 @@ const Contact = ({ contentModuleId }) => {
           </div> */}
         </form>
 
-        <a href="https://forms.gle/CgUnTZis8xDVyf6i7" target="_blank">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdDr9EWjb1PfGnZyo_Y5uLqDkromdcS5g6OD4rGVQDDOhwQgw/viewform?usp=sf_link" target="_blank">
           <button type="submit" className="btn btn--primary mt-8">
             Contáctanos
           </button>
