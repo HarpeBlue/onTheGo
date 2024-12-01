@@ -7,6 +7,8 @@
 }
 
 .contact__image-wrap {
+    display: inline-block;
+    font-weight: bold;
     max-height: 265px;
     max-width: 330px;
     @apply mx-auto;
